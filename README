@@ -1,0 +1,2 @@
+BigInteger uses a Linked List to store digits of an intended number, each digit in a node. 
+The list is used to carry out operations such as addition, subtraction, and multiplication with these numbers.
